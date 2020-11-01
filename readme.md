@@ -439,6 +439,7 @@ var items = slideshowElement.querySelectorAll(".slideshow__item");
 var previousBtn = slideshowElement.querySelector(".previous");
 var nextBtn = slideshowElement.querySelector(".next");
 var progressElement = document.querySelector(".progress");
+var pagination = document.querySelector(".pagination");
 
 // Options
 var options = {
