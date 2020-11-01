@@ -1,0 +1,25 @@
+{
+  "name": "@bqardi/slideshow",
+  "version": "1.0.0",
+  "description": "A highly flexible slideshow component with easy controls.",
+  "main": "slideshow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqardi/slideshow.git"
+  },
+  "keywords": [
+    "slideshow",
+    "images",
+    "javascript",
+    "component"
+  ],
+  "author": "Sune",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bqardi/slideshow/issues"
+  },
+  "homepage": "https://github.com/bqardi/slideshow#readme"
+}
